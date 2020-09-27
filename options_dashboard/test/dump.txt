@@ -1,0 +1,15 @@
+https://query1.finance.yahoo.com/v8/finance/chart/
+AMD?symbol=AMD
+&period1=1557460800
+&period2=1596556856
+&interval=1d
+
+
+
+
+
+&includePrePost=true
+&events=div%7Csplit%7Cearn
+&lang=en-US
+&region=US
+&crumb=.IjdaZeNATE&corsDomain=finance.yahoo.com

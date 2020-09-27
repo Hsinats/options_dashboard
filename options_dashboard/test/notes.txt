@@ -1,0 +1,8 @@
+The payoff of a long call: (short payoff = *-1)
+
+max(S_T-K, 0)
+
+The payoff of a long put: (short payoff = *-1)
+
+max(K-S_T, 0)
+
