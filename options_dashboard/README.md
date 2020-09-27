@@ -2,6 +2,7 @@
 
 This is my first app that I consider somewhat complete. I started knowing barely anything about Flutter, or options trading for that matter and ended with a workable options dashboard.
 
+
 #The app in action
 
 Video of the app can be seen here:
