@@ -3,6 +3,7 @@
 This is my first app that I consider somewhat complete. I started knowing barely anything about Flutter, or options trading for that matter and ended with a workable options dashboard.
 
 
+
 #The app in action
 
 Video of the app can be seen here:
@@ -25,3 +26,5 @@ The valuable thing about Provider is it allows you to rebuild PARTS of your UI w
 This is really just the same lesson that I learned when it comes to project architecture because if I had have planned things well before, I would not have run into these problems.
 
 In the future, I will attempt to start with the end in mind. In this case, I had no idea what the scope of this project would be, and I added a lot of things as I was going.
+
+Finally, I learned a lot about Flutter and Dart. In the beginning, I was an absolute novice in both. Id didn’t know the language and I had trouble implementing basically anything because I was tri[[ing over syntax and other things, I feel so much more comfortable now.
