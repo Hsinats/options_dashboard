@@ -4,7 +4,7 @@ This is my first app that I consider somewhat complete. I started knowing barely
 
 
 
-#The app in action
+# The app in action
 
 Video of the app can be seen here:
 https://www.youtube.com/watch?v=a_CkPDlQ6yg
